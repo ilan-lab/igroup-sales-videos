@@ -222,6 +222,19 @@
 "wa_url": "https://ami.i-group.co.il/v/spinemt-sakhnin.mp4"
 },
 {
+"sec": "spine",
+"id": "spinemt-netanya-ru",
+"t": "נתניה – קליניקת רוני לוקש: Spine-MT (רוסית)",
+"w": 720,
+"h": 1280,
+"d": 36,
+"mb": 4.2,
+"url": "https://ami.i-group.co.il/v/spinemt-netanya-ru.mp4",
+"poster": "https://ami.i-group.co.il/p/spinemt-netanya-ru.jpg",
+"page": "https://ami.i-group.co.il/#spinemt-netanya-ru",
+"wa_url": "https://ami.i-group.co.il/v/spinemt-netanya-ru.mp4"
+},
+{
 "sec": "edu",
 "id": "edu-01",
 "t": "מה זה דקומפרסיה?",
