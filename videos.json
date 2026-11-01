@@ -210,19 +210,6 @@
 },
 {
 "sec": "spine",
-"id": "spinemt-sakhnin",
-"t": "סכנין – הקליניקה בחרה ב-Spine-MT",
-"w": 720,
-"h": 1280,
-"d": 24,
-"mb": 4.1,
-"url": "https://amiram.i-group.co.il/v/spinemt-sakhnin.mp4",
-"poster": "https://amiram.i-group.co.il/p/spinemt-sakhnin.jpg",
-"page": "https://amiram.i-group.co.il/#spinemt-sakhnin",
-"wa_url": "https://amiram.i-group.co.il/v/spinemt-sakhnin.mp4"
-},
-{
-"sec": "spine",
 "id": "spinemt-netanya-ru",
 "t": "נתניה – קליניקת רוני לוקש: Spine-MT (רוסית)",
 "w": 720,
@@ -428,6 +415,45 @@
 "poster": "https://amiram.i-group.co.il/p/yarka-k2-branch.jpg",
 "page": "https://amiram.i-group.co.il/#yarka-k2-branch",
 "wa_url": "https://amiram.i-group.co.il/v/yarka-k2-branch.mp4"
+},
+{
+"sec": "branches",
+"id": "spinemt-jerusalem",
+"t": "Spine-MT – בקרוב בירושלים",
+"w": 720,
+"h": 1280,
+"d": 30,
+"mb": 5.2,
+"url": "https://amiram.i-group.co.il/v/spinemt-jerusalem.mp4",
+"poster": "https://amiram.i-group.co.il/p/spinemt-jerusalem.jpg",
+"page": "https://amiram.i-group.co.il/#spinemt-jerusalem",
+"wa_url": "https://amiram.i-group.co.il/v/spinemt-jerusalem.mp4"
+},
+{
+"sec": "branches",
+"id": "spinemt-sakhnin",
+"t": "סכנין – הקליניקה בחרה ב-Spine-MT",
+"w": 720,
+"h": 1280,
+"d": 24,
+"mb": 4.1,
+"url": "https://amiram.i-group.co.il/v/spinemt-sakhnin.mp4",
+"poster": "https://amiram.i-group.co.il/p/spinemt-sakhnin.jpg",
+"page": "https://amiram.i-group.co.il/#spinemt-sakhnin",
+"wa_url": "https://amiram.i-group.co.il/v/spinemt-sakhnin.mp4"
+},
+{
+"sec": "branches",
+"id": "thera-huliya-haifa",
+"t": "חוליה חיפה – בחרו ב-Thera Master",
+"w": 720,
+"h": 1280,
+"d": 27,
+"mb": 5.1,
+"url": "https://amiram.i-group.co.il/v/thera-huliya-haifa.mp4",
+"poster": "https://amiram.i-group.co.il/p/thera-huliya-haifa.jpg",
+"page": "https://amiram.i-group.co.il/#thera-huliya-haifa",
+"wa_url": "https://amiram.i-group.co.il/v/thera-huliya-haifa.mp4"
 },
 {
 "sec": "k2",
@@ -649,19 +675,6 @@
 "poster": "https://amiram.i-group.co.il/p/thera-10.jpg",
 "page": "https://amiram.i-group.co.il/#thera-10",
 "wa_url": "https://amiram.i-group.co.il/v/thera-10.mp4"
-},
-{
-"sec": "thera",
-"id": "thera-huliya-haifa",
-"t": "חוליה חיפה – בחרו ב-Thera Master",
-"w": 720,
-"h": 1280,
-"d": 27,
-"mb": 5.1,
-"url": "https://amiram.i-group.co.il/v/thera-huliya-haifa.mp4",
-"poster": "https://amiram.i-group.co.il/p/thera-huliya-haifa.jpg",
-"page": "https://amiram.i-group.co.il/#thera-huliya-haifa",
-"wa_url": "https://amiram.i-group.co.il/v/thera-huliya-haifa.mp4"
 },
 {
 "sec": "biomag",
