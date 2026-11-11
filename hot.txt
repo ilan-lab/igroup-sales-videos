@@ -3,3 +3,4 @@ biomag3d-home-travel-main
 biomag-homekit-main
 shockwave-clinic-main
 cryo-clinic-main
+shockwave-clinic-results
