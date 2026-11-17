@@ -1194,6 +1194,36 @@
 "wa_url": "https://amiram.i-group.co.il/v/biomag-homekit-fast.mp4"
 },
 {
+"sec": "biomag",
+"id": "biomag-homekit-wear",
+"t": "ערכת Biomag ביתית – כואב הגב? לובשים וזהו",
+"w": 720,
+"h": 1280,
+"d": 18,
+"mb": 3.8,
+"ds": "למטופלים: רילס על ערכה ביתית שפשוט לובשים. אפליקטורים לרגליים, לגב (וסט) ולברך.",
+"up": "2026-11-16",
+"url": "https://amiram.i-group.co.il/v/biomag-homekit-wear.mp4",
+"poster": "https://amiram.i-group.co.il/p/biomag-homekit-wear.jpg",
+"page": "https://amiram.i-group.co.il/#biomag-homekit-wear",
+"wa_url": "https://amiram.i-group.co.il/v/biomag-homekit-wear.mp4"
+},
+{
+"sec": "biomag",
+"id": "biomag-homekit-three-applicators",
+"t": "ערכת Biomag ביתית – 3 אזורים, מכשיר אחד",
+"w": 720,
+"h": 1280,
+"d": 20,
+"mb": 1.6,
+"ds": "למטופלים: רילס על ערכה ביתית עם שלושה אפליקטורים, לרגליים, לגב (וסט) ולברך, בטיפול במקביל.",
+"up": "2026-11-16",
+"url": "https://amiram.i-group.co.il/v/biomag-homekit-three-applicators.mp4",
+"poster": "https://amiram.i-group.co.il/p/biomag-homekit-three-applicators.jpg",
+"page": "https://amiram.i-group.co.il/#biomag-homekit-three-applicators",
+"wa_url": "https://amiram.i-group.co.il/v/biomag-homekit-three-applicators.mp4"
+},
+{
 "sec": "focused",
 "id": "focused-1",
 "t": "גלי הלם ממוקדים – הדור הבא של הקליניקה",
