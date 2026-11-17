@@ -1020,11 +1020,11 @@
 "mb": 5.3,
 "ds": "לבעלי קליניקות ומטפלים: הסרטון הראשי. ביומג לומינה תלת־ממד, מגנטותרפיה בפולסים מ־3 זוויות. כמה אפליקטורים במקביל, רק חיבור לחשמל, בלי כוח אדם נוסף. באישור משרד הבריאות, מבצע מיוחד ב־24 תשלומים.",
 "up": "2026-11-11",
+"hot": true,
 "url": "https://amiram.i-group.co.il/v/biomag-lumina3d-clinic-main.mp4",
 "poster": "https://amiram.i-group.co.il/p/biomag-lumina3d-clinic-main.jpg",
 "page": "https://amiram.i-group.co.il/#biomag-lumina3d-clinic-main",
-"wa_url": "https://amiram.i-group.co.il/v/biomag-lumina3d-clinic-main.mp4",
-"hot": true
+"wa_url": "https://amiram.i-group.co.il/v/biomag-lumina3d-clinic-main.mp4"
 },
 {
 "sec": "biomag",
@@ -1081,11 +1081,11 @@
 "mb": 6.1,
 "ds": "למטופלים: הסרטון הראשי. מגנטותרפיה בפולסים אצלכם בבית, כ־30 דקות לטיפול, דרך הבגדים ובלי נסיעות ותורים. באישור משרד הבריאות, מבצע מיוחד ב־24 תשלומים.",
 "up": "2026-11-11",
+"hot": true,
 "url": "https://amiram.i-group.co.il/v/biomag3d-home-travel-main.mp4",
 "poster": "https://amiram.i-group.co.il/p/biomag3d-home-travel-main.jpg",
 "page": "https://amiram.i-group.co.il/#biomag3d-home-travel-main",
-"wa_url": "https://amiram.i-group.co.il/v/biomag3d-home-travel-main.mp4",
-"hot": true
+"wa_url": "https://amiram.i-group.co.il/v/biomag3d-home-travel-main.mp4"
 },
 {
 "sec": "biomag",
@@ -1142,11 +1142,11 @@
 "mb": 8.7,
 "ds": "למטופלים: הסרטון הראשי. ערכה ביתית עם אפליקטורים לרגליים, לגב (וסט) ולברך, עם אפשרות לטפל בכמה אזורים במקביל. מכשיר אחד לכל המשפחה. באישור משרד הבריאות, מבצע מיוחד ב־24 תשלומים.",
 "up": "2026-11-11",
+"hot": true,
 "url": "https://amiram.i-group.co.il/v/biomag-homekit-main.mp4",
 "poster": "https://amiram.i-group.co.il/p/biomag-homekit-main.jpg",
 "page": "https://amiram.i-group.co.il/#biomag-homekit-main",
-"wa_url": "https://amiram.i-group.co.il/v/biomag-homekit-main.mp4",
-"hot": true
+"wa_url": "https://amiram.i-group.co.il/v/biomag-homekit-main.mp4"
 },
 {
 "sec": "biomag",
@@ -1261,11 +1261,11 @@
 "mb": 4.2,
 "ds": "לבעלי קליניקות: הסרטון הראשי. מערכת גלי הלם לקליניקה, לטיפול בכאבים, דלקות ופציעות ספורט. מבצע מיוחד ב־24 תשלומים.",
 "up": "2026-11-11",
+"hot": true,
 "url": "https://amiram.i-group.co.il/v/shockwave-clinic-main.mp4",
 "poster": "https://amiram.i-group.co.il/p/shockwave-clinic-main.jpg",
 "page": "https://amiram.i-group.co.il/#shockwave-clinic-main",
-"wa_url": "https://amiram.i-group.co.il/v/shockwave-clinic-main.mp4",
-"hot": true
+"wa_url": "https://amiram.i-group.co.il/v/shockwave-clinic-main.mp4"
 },
 {
 "sec": "focused",
@@ -1462,11 +1462,11 @@
 "mb": 4.0,
 "ds": "לבעלי קליניקות: הסרטון הראשי. קריותרפיה מקומית עם קירור ממוקד לרקמה, טיפול קצר וחיבור לחשמל. מבצע מיוחד ב־24 תשלומים.",
 "up": "2026-11-11",
+"hot": true,
 "url": "https://amiram.i-group.co.il/v/cryo-clinic-main.mp4",
 "poster": "https://amiram.i-group.co.il/p/cryo-clinic-main.jpg",
 "page": "https://amiram.i-group.co.il/#cryo-clinic-main",
-"wa_url": "https://amiram.i-group.co.il/v/cryo-clinic-main.mp4",
-"hot": true
+"wa_url": "https://amiram.i-group.co.il/v/cryo-clinic-main.mp4"
 },
 {
 "sec": "cryo",
@@ -1512,5 +1512,20 @@
 "poster": "https://amiram.i-group.co.il/p/cryo-clinic-plugin.jpg",
 "page": "https://amiram.i-group.co.il/#cryo-clinic-plugin",
 "wa_url": "https://amiram.i-group.co.il/v/cryo-clinic-plugin.mp4"
+},
+{
+"sec": "cryo",
+"id": "cryo-clinic-reveal",
+"t": "קריותרפיה מקומית לקליניקה – קירור ממוקד לדלקות ולספורט",
+"w": 720,
+"h": 1280,
+"d": 20,
+"mb": 1.6,
+"ds": "לבעלי קליניקות: רילס על קריותרפיה מקומית עם קירור ממוקד לרקמה, לדלקות ולפציעות ספורט, טיפול קצר וחיבור לחשמל.",
+"up": "2026-11-17",
+"url": "https://amiram.i-group.co.il/v/cryo-clinic-reveal.mp4",
+"poster": "https://amiram.i-group.co.il/p/cryo-clinic-reveal.jpg",
+"page": "https://amiram.i-group.co.il/#cryo-clinic-reveal",
+"wa_url": "https://amiram.i-group.co.il/v/cryo-clinic-reveal.mp4"
 }
 ]
