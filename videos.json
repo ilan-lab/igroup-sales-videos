@@ -254,6 +254,36 @@
 "wa_url": "https://amiram.i-group.co.il/v/back-pain-15s.mp4"
 },
 {
+"sec": "spine",
+"id": "plank-hook-decompression",
+"t": "אפשר לטפל בגב שלך ככה... או ככה (דקומפרסיה)",
+"w": 720,
+"h": 1280,
+"d": 32,
+"mb": 4.2,
+"ds": "למטופלים: רילס שמשווה טיפול בגב עם קרש מול 30 דקות על מיטת דקומפרסיה SPINE-MT ביורוקליניק. הטיפול מיועד לכאבי גב, בלט דיסק, פריצת דיסק וסיאטיקה, בלי ניתוח. מכשיר באישור אמ״ר. אינו תחליף לייעוץ רפואי.",
+"up": "2026-11-20",
+"url": "https://amiram.i-group.co.il/v/plank-hook-decompression.mp4",
+"poster": "https://amiram.i-group.co.il/p/plank-hook-decompression.jpg",
+"page": "https://amiram.i-group.co.il/#plank-hook-decompression",
+"wa_url": "https://amiram.i-group.co.il/v/plank-hook-decompression.mp4"
+},
+{
+"sec": "spine",
+"id": "stretch-hook-decompression",
+"t": "אפשר להימתח ככה... או ככה (מתיחת דקומפרסיה)",
+"w": 720,
+"h": 1280,
+"d": 27,
+"mb": 3.7,
+"ds": "למטופלים: רילס שמשווה מתיחת גב בתלייה מול 30 דקות של מתיחת דקומפרסיה בשכיבה, במכשיר SPINE-MT ביורוקליניק, בשליטה ממוחשבת. הטיפול מיועד לכאבי גב, בלט דיסק, פריצת דיסק וסיאטיקה. מכשיר באישור אמ״ר. אינו תחליף לייעוץ רפואי.",
+"up": "2026-11-20",
+"url": "https://amiram.i-group.co.il/v/stretch-hook-decompression.mp4",
+"poster": "https://amiram.i-group.co.il/p/stretch-hook-decompression.jpg",
+"page": "https://amiram.i-group.co.il/#stretch-hook-decompression",
+"wa_url": "https://amiram.i-group.co.il/v/stretch-hook-decompression.mp4"
+},
+{
 "sec": "edu",
 "id": "edu-01",
 "t": "מה זה דקומפרסיה?",
